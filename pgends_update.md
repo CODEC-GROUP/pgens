@@ -30,10 +30,6 @@ The *SPECIFICATION BOOKLET FOR PGENS MOBILE APP* introduces the following change
    - API hosting with unlimited browsing (e.g., CodecHosting/AWS).
    - Non-disruptive, verifiable data backups.
 
-4. **Graphic Charter**: Uses PGENS logo and colors.
-5. **Deliverables**: Budget section removed (previously 800,000 FCFA).
-6. **Testing**: Detailed testing requirements removed, with implicit testing via availability and backup verification.
-
 These changes are reflected in the updated UML diagrams below.
 
 ---
